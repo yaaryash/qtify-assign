@@ -1,0 +1,27 @@
+.wrapper {
+  display: flex;
+  align-items: stretch;
+  height: 48px;
+  box-sizing: border-box;
+  margin-top: 10px;
+}
+.search {
+  padding: 14px 20px;
+  height: 100%;
+  border-radius: 8px;
+  border-top-right-radius: 0px;
+  border-bottom-right-radius: 0px;
+  border: 1px solid black;
+  width: 502px;
+  box-sizing: border-box;
+}
+.searchButton {
+  padding: 14px 20px;
+  height: 100%;
+  border-radius: 0px 8px 8px 0px;
+  border: 1px solid black;
+  border-left: none;
+  cursor: pointer;
+  /* overflow: hidden; */
+  bac
+}
